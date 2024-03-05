@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dae9b9a8-f042-4f8a-8e38-9658611b3a4d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Esercizio1/Esercizio1.java" afterDir="false" />
+    <list default="true" id="dae9b9a8-f042-4f8a-8e38-9658611b3a4d" name="Changes" comment="es 1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/esercizio2/Esercizio2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/esercizio2/Esercizio2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +58,27 @@
       <option name="presentableId" value="Default" />
       <updated>1709646738814</updated>
     </task>
+    <task id="LOCAL-00001" summary="es 1">
+      <option name="closed" value="true" />
+      <created>1709647935180</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1709647935180</updated>
+    </task>
+    <task id="LOCAL-00002" summary="es 1">
+      <option name="closed" value="true" />
+      <created>1709648054066</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1709648054066</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="es 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="es 1" />
   </component>
 </project>
